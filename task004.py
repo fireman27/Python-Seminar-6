@@ -28,3 +28,4 @@ for i in friends:
         max_name = i['name']
 print(f'Средний возраст друзей: ', summa // kol)
 print('Самое длинное имя - ', max_name)
+
